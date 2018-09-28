@@ -9,5 +9,9 @@ Dual HotSpot screens for NX4827T043
 - requires ON7LDS L3 (needs NextionDriver installed in pi-star)
 - lots of fixes and improvements especially when switching between pages
 - based ON7LDS single timseslot hotspot
+- only DMR has been tested
 
+![alt text][logo]
+
+[logo]: https://github.com/BogdanDIA/nextion/raw/master/last_heard.png "Last Heard with dual TS"
 
