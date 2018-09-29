@@ -11,6 +11,15 @@ Dual HotSpot screens for NX4827T043
 - based ON7LDS single timseslot hotspot
 - only DMR has been tested
 
+**How to install**   
+There are several ways to install. Here is just one:
+
+- install Nextion Editor https://nextion.itead.cc/resources/download/nextion-editor/
+- open .HMI file in the editor
+- connect nextion display over serial to your PC. If using USB2serial adapter, PC2102 is recommended
+- hit Upload, choose your serial port and go
+
+
 ![alt text][logo]
 
 [logo]: https://github.com/BogdanDIA/nextion/raw/master/last_heard.png "Last Heard with dual TS"
